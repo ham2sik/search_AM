@@ -1,0 +1,5 @@
+body {background-color:#fff;}
+.search {position:relative; width:405px;height:40px;background: url(http://contents.albamon.kr/monimg/gnb/bg_sm_search_1.gif) no-repeat 0 0; z-index:1011;}
+.search #stext {width:326px;height:19px; line-height:17px; margin:8px 15px 0 16px; *margin:6px 10px 0 16px; padding:1px 0 0 0; vertical-align:top; border:1px solid #fff; font:bold 16px "돋움", Dotum, sans-serif; color:#000;}
+.search #stext:focus {outline:none}
+.search #common_search_btn {position:absolute; top:0px; right:0px;}
